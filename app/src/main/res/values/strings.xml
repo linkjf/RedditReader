@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">RedditReader</string>
+    <string name="bullet_point_symbol">•</string>
+
+    //Main Menu
+    <string name="action_refresh_title">Refresh</string>
+    <string name="action_filter_title">Filter</string>
+
+    <string-array name="default_subreddits">
+        <item>Popular</item>
+        <item>All</item>
+        <item>Announcements</item>
+        <item>AskReddit</item>
+        <item>AskScience</item>
+        <item>aww</item>
+        <item>books</item>
+        <item>BoostForReddit</item>
+        <item>DIY</item>
+        <item>ExplainLikeImFive</item>
+        <item>Fitness</item>
+        <item>Funny</item>
+        <item>Gaming</item>
+        <item>Gifs</item>
+    </string-array>
+
+    <string-array name="default_subreddits_sort">
+        <item>Hot</item>
+        <item>New</item>
+        <item>Top</item>
+        <item>Controversial</item>
+    </string-array>
 </resources>
